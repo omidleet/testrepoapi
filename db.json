@@ -1,29 +1,28 @@
 {
-    "schedule": [
-      {
-        "name": "Standard Schedule",
-        "id": 1,
-        "week": "10"
-      },
-        {
-        "name": "Cardio Schedule",
-        "id": 2,
-        "week": "8"
-    },
-        {
-        "name": "Compound Schedule",
-        "id": 3,
-        "week": "10"
-    },
-        {
-        "name": "Light Schedule",
-        "id": 4,
-        "week": "20"
-    },
-         {
-        "name": "Power Schedule",
-        "id": 5,
-        "week": "4"
-    },
-    ]
+	"schedule": [{
+			"name": "Standard Schedule",
+			"id": 1,
+			"week": "10"
+		},
+		{
+			"name": "Cardio Schedule",
+			"id": 2,
+			"week": "8"
+		},
+		{
+			"name": "Compound Schedule",
+			"id": 3,
+			"week": "10"
+		},
+		{
+			"name": "Light Schedule",
+			"id": 4,
+			"week": "20"
+		},
+		{
+			"name": "Power Schedule",
+			"id": 5,
+			"week": "4"
+		}
+	]
 }
